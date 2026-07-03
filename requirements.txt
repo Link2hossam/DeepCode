@@ -1,5 +1,5 @@
 aiofiles>=0.8.0
-aiohttp>=3.8.0
+aiohttp==3.9.4
 anthropic
 asyncio-mqtt
 docling
@@ -9,5 +9,5 @@ nest_asyncio
 openai
 pathlib2
 PyPDF2>=2.0.0
-reportlab>=3.5.0
+reportlab==3.6.13
 streamlit
